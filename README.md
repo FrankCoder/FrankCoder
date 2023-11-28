@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FrankCoder, I'm a full stack developer and I have been coding for work and pleasure for over 30 years (that's when I stopped counting). 
-- 👀 I now manage technical services teams for several product lines at Upland Software. 
-- Now I mostly code for my own benefit. 
+- 👀 I now am setting up my own small software company: Signature Software.
 - I’m interested in progressive web apps
 - 🌱 I’m continuousy learning about new technologies.
 - 💞️ I’m not looking to collaborate on other projects at this time, not that I couldn't be convinced otherwise.
